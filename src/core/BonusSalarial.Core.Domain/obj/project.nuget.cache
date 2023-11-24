@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "DWtvSuQgGJ3Lyg8/f2bJtj88vK8CSz8wMUuLvP3bsj0LyNrBwtCIiP53+94f4FBZy6MJFAcalI/q1Aiy0f7+bA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Victor Silva\\OneDrive - Verity\\Documentos\\Victor\\Estudos\\BonusSalarial\\src\\core\\BonusSalarial.Core.Domain\\BonusSalarial.Core.Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Você está executando a operação 'restore' com uma fonte 'HTTP', 'http://nuget.ecs.com.br/api/nuget'. O acesso não HTTPS será removido em uma versão futura. Considere migrar para uma fonte 'HTTPS'."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BonusSalarial.ConsoleAPP/1.0.0": {
+        "dependencies": {
+          "BonusSalarial.Core.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BonusSalarial.ConsoleAPP.dll": {}
+        }
+      },
+      "BonusSalarial.Core.Domain/1.0.0": {
+        "dependencies": {
+          "BonusSalarial.CoreShared": "1.0.0"
+        },
+        "runtime": {
+          "BonusSalarial.Core.Domain.dll": {}
+        }
+      },
+      "BonusSalarial.CoreShared/1.0.0": {
+        "runtime": {
+          "BonusSalarial.CoreShared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BonusSalarial.ConsoleAPP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BonusSalarial.Core.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BonusSalarial.CoreShared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
